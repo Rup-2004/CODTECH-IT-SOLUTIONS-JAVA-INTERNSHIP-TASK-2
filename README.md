@@ -15,8 +15,8 @@ Error Handling: Ensures grades are within the valid range (0-100).
 Clone the Repository: Download the code to your local machine.
 
 bash
-git clone https://github.com/your-repo/student-grade-management.git
-cd student-grade-management
+git clone [https://github.com/your-repo/student-grade-management.git](https://github.com/Rup-2004/CODTECH-IT-SOLUTIONS-JAVA-INTERNSHIP-TASK-2)
+cd CODTECH-IT-SOLUTIONS-JAVA-INTERNSHIP-TASK-2
 Compile and Run the Program: Compile the Java program and run it using a Java compiler (e.g., javac and java commands).
 
 bash
